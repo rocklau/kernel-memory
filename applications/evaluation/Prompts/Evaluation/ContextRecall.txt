@@ -8,23 +8,23 @@ classification:
        {
            "Statement": "Albert Einstein, born on 14 March 1879, was a German-born theoretical physicist, widely held to be one of the greatest and most influential scientists of all time.",
            "Reason": "The date of birth of Einstein is mentioned clearly in the context.",
-           "Attributed": 1,
+           "Attributed": 1
        },
        {
            "Statement": "He received the 1921 Nobel Prize in Physics for his services to theoretical physics.",
            "Reason": "The exact sentence is present in the given context.",
-           "Attributed": 1,
+           "Attributed": 1
        },
        {
            "Statement": "He published 4 papers in 1905.",
            "Reason": "There is no mention about papers he wrote in the given context.",
-           "Attributed": 0,
+           "Attributed": 0
        },
        {
            "Statement": "Einstein moved to Switzerland in 1895.",
            "Reason": "There is no supporting evidence for this in the given context.",
            "Attributed": 0
-       },
+       }
    ]
 
 question: who won 2020 icc world cup?
@@ -36,7 +36,7 @@ classification:
            "Statement": "England won the 2022 ICC Men's T20 World Cup.",
            "Reason": "From context it is clear that England defeated Pakistan to win the World Cup.",
            "Attributed": 1
-       },
+       }
    ]
 
 
@@ -49,7 +49,7 @@ classification:
            "Statement": "The Sun's primary fuel is hydrogen.",
            "Reason": "The context contains no information",
            "Attributed": 0
-       },
+       }
    ]
 
 ## Instructions
